@@ -1,0 +1,120 @@
+.container{
+    width:100%;
+
+}
+#logo{
+    background-color: #ffc107;
+    background-size: cover;
+
+}
+
+#im{
+    margin: 10px 10px 10px 387px;
+    
+}
+
+#logo ul {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    margin: 0%;
+    float: right;
+    
+}
+#logo li{
+
+    float: right;
+}
+#logo li a{
+
+    display: block;
+  
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+#logo ul{
+    margin: 39px 189px 10px 10px;
+}
+#ser h1 {
+    margin: 10px 10px 10px 378px;
+}
+#ser p{
+    margin: 10px 10px 10px 378px;
+}
+#ser{
+    margin: -10px -1px 10px -1px;
+    padding: 10px 10px 24px 10px;
+    background-color: rosybrown;
+    background-size: cover;
+    
+}
+
+.para{
+    background-size: cover;
+}
+
+#paa{
+    text-align: justify;
+    margin: -27px 386px 10px 411px;
+    FONT-WEIGHT: 100;
+    font-size: larger;
+    font-style: italic;
+    background-size: cover;
+}
+#request  {
+    margin: -19px 0px -3px 0px;
+    padding: 10px 10px 10px 10px;
+    background-color: bisque;
+    background-size: cover;
+}
+#request h2  {
+    text-align: center;
+}
+
+#request p  {
+    text-align: center;
+    font-size: larger;
+    font-style: italic;
+}
+#request a {
+    text-align: center;
+    padding: 12px 9px 8px 724px;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 20px;
+    font-size: xx-large;
+
+}
+.last{
+    margin: 2px 0px 10px 1px;
+    padding: 10px 10px 10px 10px;
+    background-color: darkgrey;
+    background-size: cover;
+}
+#frist{
+    margin: 2px -3px 10px 327px;
+    padding: 10px;
+    text-align: justify;
+}
+#second{
+    margin: 10px 624px 10px 113px;
+    color: red;
+
+
+}
+#abou{
+    margin: -21px 0px 1px 0px;
+    background-color: white;
+}
+#abou p{
+    width: 67%;
+    font-size: 25px;
+    margin: -16px 10px 10px 276px;
+    font-style: italic;
+    text-align: justify;
+}
+#abou{
+       text-align: center;
+}
+

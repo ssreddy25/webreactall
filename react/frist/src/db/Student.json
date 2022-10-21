@@ -1,0 +1,19 @@
+{
+    "student":[{
+        "id":1,
+        "fristName":"siva sankar reddy",
+        "lastName":"uppaluru",
+        "branch":"cse",
+        "beloodGroup":"b+ve"
+    },
+    {
+        "id":2,
+        "fristName":"viswanth reddy",
+        "lastName":"uppaluru",
+        "branch":"cse",
+        "beloodGroup":"b+ve"  
+    }
+
+
+    ]
+}

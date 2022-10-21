@@ -1,0 +1,1 @@
+document.querySelector("eve").addEventListener("click",function event(){alert(this.textContent) })

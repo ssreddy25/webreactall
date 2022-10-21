@@ -1,0 +1,283 @@
+Incorrect
+0/1 Points
+1.What guarantees type-safety in a collection?
+
+a.Generics   a.Generics
+
+
+b.Abstract classes
+
+c.Interfaces
+
+d.Collection
+Incorrect
+0/1 Points
+2.HashSet internally uses?
+
+a.Set
+
+b.HashMap   b.HashMap
+
+c.List
+
+d.Collection
+Correct
+1/1 Points
+3.The most used interfaces from the Collection framework are?
+
+a.List
+
+b.Map
+
+c.Set
+
+d.(All of these)   d.(All of these)
+Correct
+1/1 Points
+4.The root interface of Java Collection framework hierarchy is -
+
+a.Collection    a.Collection
+
+b.Root
+
+c.Collections
+
+d.List/Set
+Correct
+1/1 Points
+5.Which of these is synchronized?
+
+a.ArrayList
+
+b.LinkedList
+
+c.Vector  c.Vector
+
+d.(None of these)
+Incorrect
+0/1 Points
+6.ArrayList implements which of the following?
+
+a.List  
+
+
+b.RandomAccess
+
+c.Cloneable
+
+d.(All of these)  d.(All of these)
+
+Incorrect
+0/1 Points
+7.Which of these allows the storage of many null values?
+
+a.Set
+
+b.List  b.List
+
+
+c.(None of these)
+
+d.(All of these)
+Correct
+1/1 Points
+8.nextIndex() and previousIndex() are methods of which interface?
+
+a.IndexIterator
+
+b.Iterator
+
+c.ListIterator  c.ListIterator
+
+d.NextPreviousIterator
+Incorrect
+0/1 Points
+9.Vector extends which of these?
+
+a.ArrayList
+
+b.LinkedList
+
+c.AbstractList   c.AbstractList
+
+
+d.None
+Incorrect
+0/1 Points
+10.LinkedList implements?
+
+a.Deque
+
+b.List
+
+c.None
+
+d.All   d.All
+
+Correct
+1/1 Points
+11.In Iterator, nextElement() method of Enumeration has been changed to:
+
+a.next()   a.next()
+
+
+b.getNext()
+
+c.returnNext()
+
+d.name remains same
+Incorrect
+0/1 Points
+12.Enumeration returned by Vector is?
+
+a.fail-fast
+
+b.fail-safe  b.fail-safe
+
+c.none
+Incorrect
+0/1 Points
+13.From Java 5 onwards, which one of these is recommended to replace Hashtable?
+
+a.ConcurrentHashMap
+
+b.HashMap    b.HashMap
+
+c.ConcurrentHashtable
+
+d.None
+Correct
+1/1 Points
+14.Which does not allow to store a null value?
+  
+a.TreeSet   a.TreeSet
+
+
+b.LinkedHashSet
+
+c.HashSet
+
+d.None
+Incorrect
+0/1 Points
+15.Iterator returned by Vector is?
+
+a.fail-fast   .fail-fast
+
+
+b.fail-safe
+
+c.none
+Incorrect
+0/1 Points
+16.Which Map class must be preferred in multi-threading environment to maintain natural order of keys?
+
+a.ConcurrentHashMap    a.ConcurrentHashMap
+
+b.ConcurrentSkipListMap
+
+c.ConcurrentMap
+
+d.all
+Incorrect
+0/1 Points
+17.TreeMap implements?
+
+a.Dictionary
+
+b.HashMap  b.HashMap
+
+
+c.AbstractMap
+
+d.NavigableMap
+Incorrect
+0/1 Points
+18.Which list class must be preferred in multi-threading environment, considering performance constraint
+
+a.Vector
+
+b.CopyOnWriteArrayList  .CopyOnWriteArrayList
+
+c.ArrayList
+
+d.ConcurrentArrayList
+Incorrect
+0/1 Points
+19.Which Set class must be preferred in multi-threading environment, considering performance constraint
+
+a.HashSet
+
+b.ConcurrentSkipListSet   b.ConcurrentSkipListSet
+
+
+c.LinkedHashSet
+
+d.CopyOnWriteArraySet
+Correct
+1/1 Points
+20.Which Map class must be preferred in multi-threading environment, considering performance constraint
+
+a.Hashtable
+
+b.CopyOnWriteMap      c.ConcurrentHashMap
+ 
+c.ConcurrentHashMap
+
+d.ConcurrentMap
+Incorrect
+0/1 Points
+21.Which allows the removal of elements from a collection?
+
+a.Enumeration
+
+b.Iterator   b.Iterator
+
+c.Both
+
+d.None
+Correct
+1/1 Points
+22.The Comparator interface contains the method?
+
+a.compareWith()
+
+b.compareTo()
+
+c.compare()   c.compare()
+
+d.
+Incorrect
+0/1 Points
+23.Which of these is synchronized?
+
+a.TreeMap
+
+b.HashMap
+
+c.Hashtable   c.Hashtable
+
+d.All
+Incorrect
+0/1 Points
+24.Which is more offers best performance?
+
+a.TreeMap
+
+b.HashMap   b.HashMap
+
+
+c.LinkedHashMap
+
+d.All are equal
+Correct
+1/1 Points
+25.Which of these class should be preferred to be used as a key in a HashMap?
+
+a.String
+
+b.Integer
+
+c.Double
+
+d.Any of these   .Any of these

@@ -1,0 +1,17 @@
+<div style="margin:50px 0px 10px 40px "></div>
+<div style="margin:-59px 10px 10px 290px "></div>
+<div style="margin:100px 10px 10px 40px "></div>
+<div style="margin:-55px 10px 10px 290px "></div>
+<body bgcolor="#62374e" ></body>
+<style> 
+  div {
+    width: 50px;
+    height: 50px;
+    background:#fdc57b; 
+  }
+</style>
+
+//square code
+<div style="margin:-10px 10px -22px -10px; width: 200px; height: 200px; background: #b5e0ba;"></div>
+<body bgcolor="#5d3a3a" ></body>
+

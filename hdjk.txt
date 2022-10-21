@@ -1,0 +1,14 @@
+color: green;
+    margin: 10px 10px 10px 216px;
+
+
+color: green;
+    margin: 10px 10px 10px 210px;
+
+
+
+color: white;
+    margin: 7px 1045px 10px 264px;
+    padding: 30px 23px 24px 10px;
+    background-color: green;
+}
